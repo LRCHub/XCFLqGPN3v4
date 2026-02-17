@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "揺れる想い",
+  "base_artist": "ZARD",
+  "createdAt": "2026-02-17T09:04:18.782886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "揺れる想い",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_揺れる想い_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "揺れる想い",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/02_揺れる想い_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "揺れる想い",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/03_揺れる想い_ZARD.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "「揺れる想い」Music Video",
+      "artist": "Zard",
+      "has_synced": true,
+      "path": "select/04_「揺れる想い」Music_Video_Zard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "揺れる想い (Original karaoke)",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/05_揺れる想い_(Original_karaoke)_ZARD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "揺れる想い",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/pl_01_揺れる想い_ZARD.txt"
+    }
+  ]
+}
